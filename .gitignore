@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+
+precomputed/
+test_sandbox/
+
+*.csv
+*.jsonl
+
+[PUB]*

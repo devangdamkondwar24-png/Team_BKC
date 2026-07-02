@@ -1,0 +1,13 @@
+team_name: Antigravity
+team_members:
+  - Antigravity
+
+architecture:
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  ranking_approach: 
+    - 5-pillar composite scoring (Career Depth, Semantic Similarity, Structured Fit, Behavioral, Disqualifiers)
+    - 12-rule strict honeypot detector
+    - Multiplicative disqualifier gate
+  precomputation_used: true
+  precompute_time_estimate: 90 minutes
+  ranking_time_estimate: 2 minutes
