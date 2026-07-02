@@ -1,6 +1,0 @@
-team_name: "Antigravity Engineers"
-repo_link: "https://github.com/Antigravity/redrob-ranker"
-sandbox_link: "https://huggingface.co/spaces/Antigravity/redrob-ranker"
-compute_environment: "CPU, Offline, Python 3.11"
-ai_tools_used: "Gemini 1.5 Pro for code generation"
-contact_email: "darsh@example.com"
